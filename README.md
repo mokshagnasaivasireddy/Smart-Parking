@@ -4,7 +4,7 @@
 
 The Smart Parking System is an IoT-based parking automation project that streamlines vehicle entry, parking time tracking, fee calculation, and exit verification. The system combines Automatic License Plate Recognition (ALPR), Arduino-based gate control, RFID payment simulation, and cloud-based data logging to minimize manual intervention and improve parking efficiency.
 
-A hybrid architecture is used where the Arduino Uno manages hardware components while a laptop performs image processing, database management, and billing operations.
+A architecture is used where the Arduino Uno manages hardware components while a laptop performs image processing, database management, and billing operations.
 
 ---
 
