@@ -182,3 +182,8 @@ Gate Opens
 ## License
 
 This project was developed as an academic project for the Department of Electronics and Communication Engineering, SRM University AP.
+
+## Team Members
+
+Mokshagna Sai V
+Sachithanand B
