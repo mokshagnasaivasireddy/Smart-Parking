@@ -185,5 +185,5 @@ This project was developed as an academic project for the Department of Electron
 
 ## Team Members
 
-Mokshagna Sai V
+Mokshagna Sai V &
 Sachithanand B
